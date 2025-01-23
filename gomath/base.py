@@ -1,6 +1,6 @@
 class Base:
     def __init__(self):
-        self.pi = 3.14
+        self.pi = 3.141592653589793
 
 
     def addition(self, num1, num2, *args):
